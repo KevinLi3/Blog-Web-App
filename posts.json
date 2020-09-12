@@ -1,0 +1,55 @@
+[
+    {
+        "title": "My Updated Post",
+        "content": "My first updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post2",
+        "content": "My second updated post!\r\n\r\nThis is exciting!",
+        "user_id": 2
+    },
+    {
+        "title": "My Updated Post3",
+        "content": "My third updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post4",
+        "content": "My fourth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 2
+    },
+    {
+        "title": "My Updated Post5",
+        "content": "My fifth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 2
+    },
+    {
+        "title": "My Updated Post6",
+        "content": "My sixth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post7",
+        "content": "My seventh updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post8",
+        "content": "My eighth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post9",
+        "content": "My ninth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Updated Post10",
+        "content": "My tenth updated post!\r\n\r\nThis is exciting!",
+        "user_id": 2
+    }
+
+
+
+]
